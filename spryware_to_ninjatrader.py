@@ -7,7 +7,7 @@ Created on Wed Nov 23 12:51:32 2016
 This script will take a csv file in Sprywarw's tick data format and
 convert that into a new csv file for use in NinjaTrader 8.
 
-This script assumes SPRY colums of ["Date", "Time", "Symbol", "TransType", "ItemType", 
+This script assumes SPRY columns of ["Date", "Time", "Symbol", "TransType", "ItemType", 
 "Condition", "Scale", "Sequence", "Exchange", "Price", "Size"],
 and that you want NinjaTrader format of yyyyMMdd HHmmss;price;volume.
 
